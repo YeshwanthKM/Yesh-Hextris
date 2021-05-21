@@ -4,7 +4,7 @@ GNU GENERAL PUBLIC LICENSE
 Copyright &copy; 2021 
 
 Everyone is permitted to copy and distribute verbatim copies of this license
-document, but changing it is not allowed.
+document
 
 ## Preamble
 
